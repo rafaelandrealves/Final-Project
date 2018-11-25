@@ -10,6 +10,6 @@ Compile with:
   
 Execute with:
   ./WarmingUp
-  "-g" for graphic mode, "-t" for textual mode
-  "-f1" followed by the countries file name
-  "-f2" followed by the cities file name
+  "-g" for graphic mode or "-t" for textual mode;
+  "-f1" followed by the countries file name;
+  "-f2" followed by the cities file name;
