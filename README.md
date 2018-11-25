@@ -9,6 +9,7 @@ Compile with:
   gcc *.c -g -I/usr/local/include -Wall -pedantic -std=c99 -L/usr/local/lib -lm -lSDL2 -lSDL2_ttf -lSDL2_image -o WarmingUp
   
 Execute with:
-  ./WarmingUp <-t or -g> <csv_file_name>
-
-
+  ./WarmingUp
+  "-g" for graphic mode, "-t" for textual mode
+  "-f1" followed by the countries file name
+  "-f2" followed by the cities file name
